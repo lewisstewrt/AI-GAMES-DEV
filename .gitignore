@@ -1,0 +1,14 @@
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+out/
+build/
