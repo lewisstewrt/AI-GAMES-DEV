@@ -1,4 +1,4 @@
-// Banner IDs: B01590256, B00XXXXXX, B00XXXXXX  
+// Banner IDs: B01590256 Lewis Stewart
 
 
 #include "aipfg/chat-client.hpp"
